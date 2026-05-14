@@ -1,0 +1,17 @@
+# venv
+myenv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# models
+models/
+checkpoints/
+
+# raw data
+data/raw/
+
+# jupyter
+.ipynb_checkpoints/
